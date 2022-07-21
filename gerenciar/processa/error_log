@@ -1,0 +1,2 @@
+[26-Jun-2020 15:51:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/desenvolvimento/public_html/appin/gerenciar/config/conecta.php on line 2
+[26-Jun-2020 15:51:26 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/desenvolvimento/public_html/appin/gerenciar/config/conecta.php on line 11

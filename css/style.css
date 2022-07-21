@@ -1,0 +1,8 @@
+.bloco {
+    border-width: 2px;
+    border-color: rgb(237, 237, 237);
+    border-style: solid;
+    border-radius: 10px;
+    background-color: rgb(246, 246, 246);
+    padding: 20px 15px 40px 15px;
+}

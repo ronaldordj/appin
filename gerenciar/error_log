@@ -1,0 +1,8 @@
+[26-Jun-2020 15:52:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 3
+[26-Jun-2020 15:52:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/desenvolvimento/public_html/appin/gerenciar/inicio.php:1) in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 8
+[26-Jun-2020 15:53:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 3
+[26-Jun-2020 15:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/desenvolvimento/public_html/appin/gerenciar/inicio.php:1) in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 8
+[26-Jun-2020 16:05:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 3
+[26-Jun-2020 16:05:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/desenvolvimento/public_html/appin/gerenciar/inicio.php:1) in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 8
+[26-Jun-2020 17:29:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 3
+[26-Jun-2020 17:29:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/desenvolvimento/public_html/appin/gerenciar/inicio.php:1) in /home/desenvolvimento/public_html/appin/gerenciar/header.php on line 8
